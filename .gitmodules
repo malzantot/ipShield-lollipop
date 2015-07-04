@@ -1,0 +1,6 @@
+[submodule "lollipop-ips-libutils"]
+	path = lollipop-ips-libutils
+	url = https://github.com/malzantot/lollipop-ips-libutils.git
+[submodule "lollipop-ips-sensorservice"]
+	path = lollipop-ips-sensorservice
+	url = https://github.com/malzantot/lollipop-ips-sensorservice.git
