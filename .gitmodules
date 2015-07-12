@@ -7,3 +7,6 @@
 [submodule "lollipop-ip-frameworks_base"]
     path = lollipop-ips-frameworks__base
     url = https://github.com/malzantot/lollipop-ips-frameworks_base.git
+[submodule "lollipop-ips-frameworks_base"]
+	path = lollipop-ips-frameworks_base
+	url = https://github.com/malzantot/lollipop-ips-frameworks_base.git
