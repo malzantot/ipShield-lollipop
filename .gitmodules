@@ -10,3 +10,6 @@
 [submodule "lollipop-ips-frameworks_base"]
 	path = lollipop-ips-frameworks_base
 	url = https://github.com/malzantot/lollipop-ips-frameworks_base.git
+[submodule "lollipop-ips-sepolicy"]
+	path = lollipop-ips-sepolicy
+	url = https://github.com/malzantot/lollipop-ips-sepolicy.git
